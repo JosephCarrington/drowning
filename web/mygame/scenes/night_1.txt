@@ -1,0 +1,21 @@
+After returning home from the county clinic, all three are exhausted. The Mother tucks the child in after cleaning his face up a bit and distractedly reads him a story. Jane murmurs little platitudes to him about has been, and that he is going to grow up to be the man of the house soon. At the kitchen table, Jane and The Mother talk for a moment. Jane puts on a pot for tea but the Mother is too exhausted and excuses herself to get ready for bed. Jane sits at the kitchen island with her head in her tired hands for a moment before the kettle whistles. She pulls out a bag of chamomile and pours water over it in her favorite mug. She holds her face over the steam before lightly sipping over the surface of the liquid.
+
+Of all the things in this new place, she decides the cold bothers her the most.
+
+The Mother comes down and says that she is going to bed, and could Jane check in on the child before she goes to sleep?
+
+Jane says she can, and The Mother absently bids her sweet dreams. After a few moments of blissful aching, Jane gets ready for bed. She changes her clothes, cleans her face and prods at a few pimples forming on her chin. She brushes her teeth with the hippy stuff she makes the Mother buy her and brushes her hair between yawns. Suddenly, she hears a thump from her room. She clicks the bathroom light off and on light feet enters her bedroom.
+
+The window has blown open. She must have left it unlocked last night. Jane often crawls out her window at night so as not to wake The Mother. When it's nice out, she'll go on walks or just read or write somewhere on the grounds, it's easy enough to get down from the second story, and theres even a ladder handy on most nights. On cold nights like tonight she'll just sit on the roof and have a cigarette before bed. She looks out, feels a chill as cold wind blows in at her, closes the window and locks it this time. She tiptoes out and over to the Child's room.
+
+Jane sees that The Child is asleep. His lips move slightly as he inhales. His is the deep sleep of a spent babe.
+*choice
+	#Jane wishes to lay with him that he might not be afraid in the night, but thinks better of possibly waking him. Also, she is much too old now to be able to fit into such a small bed without great discomfort. 
+		Jane quietly closes the door, enters her room, and without even turning on the lights, falls into bed and is fast asleep.
+		*finish
+
+	#Jane has a sudden and uncontrollable urge to keep the child safe. She sidles into his small bed beside him and lays atop the covers, lest she steal them from him in the night. 
+		She fights the urge to smooth out his strikingly blonde hair for a moment, and then falls asleep.
+		*set jane_sleeps_with_child true
+		*finish
+

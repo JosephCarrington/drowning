@@ -1,0 +1,32 @@
+*set fog true
+A light fog is beginning to encircle the estate. I'ts tendrils reach deep from the forest and dance around the outlying trees like maggots making their way through a deep muscle. The sun does it's best to break through and illuminate a few patches of turf, and for a a moment the house is lit with the subdued glow of refracted sunlight. It is in this relative warmth, siphoned through a vaulted window, that Jane wraps herself in her sweater and coat as she makes her way to the front door.
+
+Jane reaches for the deadbolt to unlock it and finds that it is no longer locked. Her nerves spike at this revelation: someone has been in, or out, of the house. Perhaps the mother has gone out to fetch something from the car, but in this weather it would be unwise to cart along the child with her. And then, of course, the car is not there anyways. 'We got a ride with that cop' she remembers.
+
+The light diminishes again, and an ominous air begins to descend upon the morning. Brown and grey. Where is the mother? Where is the child? Jane feels an uncanny uneasiness creep upon her.
+
+*choice 
+	#Determined to assess the situation, Jane yanks the door open wide and rushes out into the front yard.
+		*set jane_bravery_vs_caution - 10
+		Jane opens the door and runs outside, but something is different out here. Where there was once a simple stone pathway from the parking area are now the budding trunks of three young trees forming a loose canopy over the walkway. Their leaves are bright green against the grey,  and the wind stirs their juvenile branches eerily overhead.
+
+		*goto trees
+	#Jane's suspicions rise. It is unlike the Mother to abscond with the child without leaving a note, and even less like her to leave the door unlocked. Jane spies through the peephole.
+		*set jane_bravery_vs_caution + 10
+		Pressing her forehead against the front door and centering her left eye, Jane scans the front yard for a moment before a convulsive shiver overtakes her. Inexplicably, there are three young trees lining the path to the front door which were not there yesterday. Their leaves, although barely budding in the cold and dreary day, are a bright green only intensified by their placement in an otherwise hue-less view.
+
+		*label trees
+		Is this what the Mother is doing? Planting trees at 9 in the morning? And if so, where is she?
+
+		*choice
+			#Jane spends a few moments investigating the new trees.
+				Jane knows very little of trees. Although she could potentially spot a Maple by it's leaf, or identify a Ponderosa Pine by it's vanilla smell on a hot day, she is ill-equipped to determine much about the trees aside from their obvious newness. She places her hand against one to feel it's bark but draws it back sharply. The tree is hot to the touch. If the mother did plant these here, she must have done so just moments ago.
+
+				But there is no fresh earth surrounding the trunks. Impossibly, it is as if the trees simply grew overnight.
+				*set fog_off true
+				*finish
+
+			#Jane runs around the side of the house. Perhaps the Mother is in the toolshed.
+				Ignoring her mother's ill-informed landscaping for the time being, Jane runs left around the house towards the old toolshed. Jane has always been told not to explore in there as the Mother believes it too dangerous. The squat white building sits gathering a fine sheet of fresh snow and sloughing it off in occasional gusts. It's dilapidated facade speaks of the true age of the house. Banging on the double doors, she sees that the usual metal padlock is engaged through it's rings.
+				*set fog_off true
+				*finish

@@ -1,0 +1,100 @@
+The bark comes off easily. Having pivoted off the tree’s protective layer, little gems of sap begin to form around the wound. The girl prods them half consciously with the tip of the vanilla scented bark. It is too chilly for her wardrobe here in the country, so shivering she tries to keep her mind occupied with her brother's chatter. He is parsing recently received information: the deer are probably more afraid of him than he is of them. He muses that they should know that he just wants to pet them and touch their nose, and to curry their favor would happily provide grasses or whatever it is they eat. A wind stirs the leaves around him and he laughs at the perceived animism in his surroundings, quickly grabbing leaves and protecting them under his legs so that they don’t blow away. The same wind blows her hair into tangles, the little fibers knotting for The Mother to worry out, with less and less patience each time. Squirrels, deer, bark and the babbling brother are her entertainment now. It is untenable.
+
+Fourteen and having recently grown breasts, she has begun to notice the leers and has covered herself accordingly. Her friends back home would talk of attractive boys and men who would corner them, or commit some act of dark masculinity to raise their passions, but despite her budding feelings she finds the boys dull and imbecilic, and the men needy and misshapen. Her lusts go to the faceless creatures she conjures up in dreams: arms, hands holding her down, torsos menacing with light and shadow in little fits of visibility, her neck pressed hard into her mattress cutting off her breath and lending immediacy to the act. Knotted sheets would lay about her body as she wakes up breathless and shivering. She would drink water and hider her head under her pillow to block out the ever-present flashing of the city.
+
+Her given name is Jane, but she conceives that she has her own name and can't decide on which it is. Maybe Marco, she muses. Marco, or Phoebe, or Roscoe? She attempts to remember her name from dreams, but is cut short by the conspicuous absence of her brother’s prattle. She looks for him and sees he is going red and about to wail. A sharp intake of breath the harbinger of his animal’s cry of demand for her immediate attention. She sees him grasp his tiny leg and pucker his mouth around his imagined agony, his eyes squeezed tight in preparation for the act. His shriek begins with a bewildered yelp. She waits, a moment too long, to tend to his torture, and then she sees moist red and white gristle, his soft pink skin ragged.
+
+She is running with the bleeding child in her arms, his blood pooling in her left hand where she cups the wound. "A scrape, it's just a scrape" she says as much to him as herself, with his blood running down her arm, flicking droplets into the piled leaves and spattering her dress and legs. He is heavy but still fits in her arms. Her legs carry her towards the house of their own accord. She kicks open the door and shouts upstairs for The Mother. Displacing a quarter-full glass of juice and a napkin dispenser, she lays the child on the kitchen table. "Mom!" she exclaims again, her weakness showing. The boy's leg is bleeding but it is only skin deep. The little worms of tissue are poking out at the bottom, but it is a clean wound, and it can be taken care of. The little child is kicking and writhing, grabbing his calf to dull the pain.
+
+*choice
+	#The Mother comes down and stares for a moment in abject horror at her child. She counts to ten backwards in her panic-focused mind, and runs to the closet to get her doctor's bag.
+		The Mother comes back into the room visibly shaken, her face sweating with the strain of wrenching her old doctor's bag from the depths of the closet. She quickly takes the child from the table and, after inspecting it's wounds, sets to work on her task. The wound is too deep and wide to perform a simple set of stitches, it will have to be taken care of at a hospital. The Mother wraps the leg in dusty bandages and instructs Jane to start the car.
+
+		*goto car
+	#The girl waits, the child wails. Moments turn into seconds, into minutes. Her cries demand The Mother but are rebuffed with mounting silence.
+		*set mother_haunted + 10
+		This is not the first time the Mother has been absent when her presence was required. At these times Jane was forced to take care of the Baby, and she falls easily into the role.
+
+		"Pressure" she muses through gritted teeth. "Keep pressure on the wound". Is that not what the Mother would say?
+
+		*fake_choice
+			#Jane leaves the child on the table and goes into the hallway to find the first aid kit.
+				The first aid kit is buried beneath shoes and old coats. She rips these away and carries the kit back to the child and dresses the wound with a clean cotton pad. She then uses an ace bandage to tie off the child's leg above the knee.
+			#Not wishing to let the child out of her sight, Jane quickly rips her cotton shirt at the hem, leaving it useless. 
+				She dresses the wound as best she can and takes amother strip to bind the child above the knee.
+		
+		Where the fuck is the Mother? She panics. She swaddles the child but it will not be consoled. Shrieks continually pierce the otherwise dead silence, pausing only as the child inhales another quick burst of air to continue the biologically perfected klaxons. Two cries, breath, one long cry, breath, two cries. A pattern emerges.
+
+		Suddenly, the Mother is seen descending the staircase. She looks as if she had just been woken from a nap, her hair unruly and her makeup faded. Upon seeing her daughter tending to her bleeding son, her her mind snaps to attention and she runs down the staircase. She inspects the wound wordlessly and descends upon the open first-aid kit. After creating a pile of her materials, she rips the bandaging from the child and cleanses the wound with a few deft strokes from an alcohol pad. After grumbling over the child's leg for a moment, she chooses a pause in it's wailing to tell Jane to start the car. Jane is informed that they must go to the clinic, the child has lost too much blood.
+
+		*label car
+
+		Jane grabs the keys from the hallway and starts the car. She waits a few moments then decides to run back inside to help the Mother carry the child. The Mother is standing over the child, staring at it's mangled leg.
+
+		"Jane honey" she murmurs, her voice weak, "I need you to go and try to find the missing flesh if you can. Take some gloves and a cup of ice. I am going to get him ready for the car seat."
+
+		Jane knows that the Mother is most likely right about finding the tissue. The bite, or whatever it was, has removed a large chunk from the child's leg, leaving no flap. An avulsion, she thinks. Is that not what The Mother would call it? 
+
+		*choice
+			#Jane cautiously walks out to the area that the child was playing in, scanning the surroundings for signs of movement.
+				*set jane_bravery_vs_caution + 10
+				The air has taken on a bit more of a chill, and Jane's city clothes only exacerbates this. She walks guardedly, with arms clasped in front of her, towards the little glen on the south side of the property where one can be almost fully enveloped in the trees. She had found this place on her first walk around the new house, the light in it had almost called to her as it sparkled in the thin snow. Now the place seemed to have taken on a darker tone, the gloom of the horizon casting shadows into the recesses.
+
+				*goto chunk
+			#Jane rushes out of the house and searches the area they were in for any signs of blood that might lead her to the missing chunk of the child's  flesh.
+				*set jane_bravery_vs_caution - 10
+				Jane runs towards the small pillowy field between the copse of trees to the south of the house. It is darker now as the light fades below the horizon, but she can still see well enough to spot any bright red pocks among the dull brown of the frozen earth.
+
+				*label chunk
+				Try as she might, Jane is unable to find the torn flesh. She looks for a spatter of blood to position herself in the glade, but there is none to be found. Even where the child sat when he was attacked, there is nothing but earth and the little pile of twigs and leaves he was guarding from the wind. She loses herself in the hunt for a few moments, then seeing The Mother standing by the car out at the front of the house, Jane shrugs grotesquely at her as she runs back up to the driveway. Jane enters the car as the Mother is beginning to pull out of the driveway. The Mother tosses Jane her sweater from the day before. 
+
+		The Mother shifts the economy car into third and blazes down the wormy mountainside road. Jane holds onto the handle above her head with white knuckles; she' hasn’t been comfortable in cars since the accident. It is 4pm; the sunlight dwindles in the crisp mountain air. The smell of loamy earth and decaying leaves enters the car through the open windows. At this speed, the car will reach the bottom of the mountain in ten minutes.
+
+		The child continues to bawl, but it has mostly tired itself out now. It's eyes roll back between plaintive blasts. The sun's last rays shoot through the tree line in an hypnotically regular pattern like a zoetrope of a sunset. The sky is encircled in a pink ring, lending an otherworldly beauty to the panicked drive.
+
+		"What happened?" the Mother bleats in a strained voice, attempting to keep her voice level.
+
+		*fake_choice
+			#"I honestly don't know. One minute he's sitting there playing, the next he's got that... gash. He didn't even get up or anything! Just… sitting there playing, and then this."
+			#"I was watching him like you asked me. I looked away for a moment, it couldn't have been more than a few seconds, and then he starts bawling."
+
+		"Honey you have to be more careful!" She admonishes. "If you are going to watch him you need to have an eye on him at all times! I can't get any work done if I have to be taking care of him all the time, and you know that since Christian passed you have to take on more responsibility with the family!"
+
+		"I know. It was just for a few seconds. There's no way he could have hurt himself anyways, all he had was a few sticks!"
+
+		"Well… in the future I want you to keep a closer eye on him. It must have been an animal or something. We'll have to get him a rabies shot then, poor baby."
+
+		Minutes pass. The Mother turns on the radio but quickly turns it back off. Jane takes a moment to rest her eyes.
+
+		*choice
+			#Suddenly Jane hears a horn blare, her eyes shoot open to the Mother shrieking and attempting to gain control of the vehicle as she skids through a red light.
+				*set crash true
+				A bright green Mack truck comes barreling down at the car, Jane sees the look of terror in the driver's eyes. She understands in that instant that the driver has to choose to ram straight into the car, saving his own life at the expense of theirs, or to veer hard right and hit a small cluster of shops, likely destroying them and himself along with it.
+				*fake_choice
+					#The driver blinks once and hits the engine brake. He pulls hard right on the steering wheel and aims for the empty barber shop next to the knick-knack store. He mouths Jesus' name and slams straight into the brick wall.
+					#The driver blinks once and hits the engine brake. He pulls hard right on the steering wheel and aims for the empty barber shop next to the knick-knack store. He mouths jesus' name and slams straight into the brick wall.
+
+				The economy car slides into a light pole and lovingly folds itself around it. Jane sees police lights and then doesn't see anything. She wakes in a hospital bed.
+
+				"The family is fine."
+				"The truck driver?" she gasps.
+
+				"We are giving him the best care we can."
+				*goto sheriff
+				
+			#The Mother and the daughter continued the lonely drive to the hospital. The child is rushed in to triage and deemed injured enough to be given immediate care, skipping the line in front of an old man lying on a bench shivering with his eyes rolled back. 
+
+				*label sheriff
+				
+				After a few interminable hours at the clinic, the family is deemed ready to leave. A portly man in an ill-fitting police uniform enters the clinic, speaks for a moment with the intake nurse, and addresses the family. He is the sheriff and he is offering them a ride home. Given their current state, the Mother accepts.
+
+				*if crash
+					The Mother is silent, holding the child in her arms. Jane asks about the other driver, but the Sheriff does not seem to hear her over his radio.
+					*goto drop
+				*else
+					The ride is quiet but warm. The Sheriff offers a few pleasantries but is rebuffed with the Mother's porcelain poise.
+					*goto drop
+
+					*label drop
+					The Sheriff drops the family off at the estate. He assures them that he will drop by tomorrow to check up on them, and wishes them a good night.
+					*finish

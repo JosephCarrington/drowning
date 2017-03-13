@@ -1,0 +1,64 @@
+*set mother_gone true
+Jane is walking back inside the house when she hears the child screaming. She turns with a start and listens with wild eyes. Again the child wails. Not one of pain this time, but of terror. The cries are coming from off past the treeline to the southeast. Jane quickly grabs a heavier coat from the coat rack near the door and charges off into the trees, shouting The Child's Name in little blasts of panic. She runs madly from this tree to that, calls His Name. When she hears nothing in response, she dashes in another direction. Her breath is hoarse when, after three minutes, she hears the child again. This time it is to the Northwest. She must have overshot him. Jane runs toward the sound of the Child's horrified cries. She's getting close, she can hear a sniveling sputter at the end of his cries now.
+
+*choice
+	*selectable_if (jane_bravery_vs_caution >= 50) #Jane sees the branch just in time. It swings around in the wind and almost smashes her in the torso, but she deftly sidesteps it. The branch's force tears it from it's trunk and it sails across a small hill of untouched snow.
+		*goto the_search
+
+	#Jane sees an errant branch come swinging down at her with a tremendous force. She tries to avoid it but get's most of the brunt on her side. Bright red explodes out of her torso and spatters the white blanket of snow on the ground. She holds her side, blinks the tears out of her eyes and rushes on, somewhat more cautiously.
+		*set jane_injuries + 1
+
+		*label the_search
+		The Child's voice is now ringing in her ears, but she can't determine it's direction. It seems to be coming from all parts of the forest at once. Jane begins to cry and turns around madly, her cheeks stinging from the cold.
+		*fake_choice
+			#Jane runs North
+			#Jane runs south
+			#Jane runs east
+			#Jane runs west
+
+		She feels she's getting closer, she almost knows the child is over the next rise, but when she gets there all she sees is white untouched snow.
+
+		*fake_choice
+			#Jane runs North
+			#Jane runs south
+			#Jane runs east
+			#Jane runs west
+
+		More determined this time, Jane runs for a few moment screaming The Child's Name all the while. Through thick spit she asks useless, unanswerable questions: 'Where are you?'
+
+		'Can you  hear me?'
+
+		And ignores the silence.
+
+		*fake_choice
+			#Jane runs North
+			#Jane runs south
+			#Jane runs east
+			#Jane runs west
+
+		She pants, hot tears running down her jacket and into her shirt. 
+		*if jane_injuries > 0
+			Her blood pooling in her hands and falling down in the snow, leaving a trail of sorts. And then she sees it. The blood is disappearing into the snow. Her blood is being sucked into the earth.
+			*set jane_horror + 1
+			*goto determined
+		*else
+			She gasps and spits. Snot is bubbling out of her nose and ringing her lips. Her ears are on fire.
+			*goto determined
+	
+		*label determined
+		She is exhausted, but determined to go on.
+
+		*fake_choice
+			#Jane stumbles North
+			#Jane falters south
+			#Jane reels east
+			#Jane limps west
+
+		The Child's cries can be heard almost as if they are just a few feet away. They pierce her freezing ears. She circles around madly, but the clid can't be found. Jane drops to her knees and blubbers into the freezing snow. The child's cries reach fever pitch as Jane begins to feel woozy. She closes her eyes and screams. No words, just a maddened, terrified scream of pure primal outrage. The Child cries along with her. The Child is calling for her! The Child hears her! She bolts upright, snow falling off her hair and face. Blinks. Turns her head. She see's The Child lying in a copse of trees. The same copse of trees they were playing in yesterday when all this started. He is pale white and shivering. He sits on the ground rocking back and forth and screaming in nothing but an undershirt. he has tucked his legs and arms into.
+
+		Jane rushes for him screaming His Name with renewed vigor. He sees her and cries at her with his arms limply outstretched and shivering. She unzips her jacket as she runs and hoists him up into the air and against her heaving chest. Jane hugs The Child and sobs with battling fits of terror and relief. She presses her face to his head and kisses his on the cheek and forehead, her fat tears plopping onto his blonde hair.
+
+		Jane zips her jacket back up over him. A game they used to play when he was smaller. They would try to fool The Mother. The Child would try to hide inside her jacket, but he always laughed too quickly and earnestly for the mother to be tricked for long.
+
+		He is there inside of her protection now. Jane steels herself. She takes the first short step, and that's when world goes wrong.
+		*finish

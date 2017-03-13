@@ -1,0 +1,95 @@
+The doctors would call it graphomania. The doctors would say that many children with Autism develop strange habits like this, and as long as it is not negatively impacting his life, that it should be tolerated. The doctors would often take some glad part of The Child and call it bad. Jane saw through the doctors ignorance as clearly as if they had been made of glass. The Child was an artist, plain and simple. If his art took on the form of repetition then so be it, It was beautiful. He did not yet know how to spell many four letter words and  yet his penmanship rivaled her own, and most certainly that of The Mother. So, although the mother frowned, Jane indulged The Child in his habit. She would leave him at a desk for hours at a time, occasionally coming by to sharpen his pencil or get him a new stack of paper. She would buy reams of fresh white paper for him every few weeks out of her own allowance. She would neatly file away each page and organize them by month. Occasionally she would take a few pages out from each month and look at them with him, to see how far he had come.
+
+"It's just so… strange." The  Mother said.
+"He likes doing it!" Jane retorted. "What's so bad about him doing it? At least he's not hitting himself anymore."
+The Mother would scowl. "I just wish he'd do something a little more social. Go and play with the other kids. You know, I'm dying for a play-date. I would pay some little kid money to ask him on a play-date."
+"He doesn't care about… he doesn't like any of the other kids at that school." Jane corrected herself.
+"Oh don't I know that. God. I'd even just like to spend a little time with some other parents. It's been so long since I just had a relaxing time with another adult." The Mother replied.
+"So get some friends. It's not that hard geez" Jane rolled her eyes.
+"Oh isn't it that hard, little Janey? And where pray tell are your easily acquired friends?" The mother said, a little more dryly than she intended.
+"God, thanks. It's… harder for me and Him. You're a social person." She paused… "We're more into our own little thing."
+The Mother saw that she had hurt her daughter. "I'm sorry Janey. I know you two like to do your own thing. I shouldn't have made fun. It's just… it's so… his writing. It's so morbid! Would it kill hime to write something different once in a while?"
+"I think he likes the way the sounds… sound." Jane said absently. BUt she too thought it was strange, just the one string of sylables over and over.
+
+That night, while she was making him his two perfectly formed scoops of strawberry ice-cream served in the blue bowl with the small spoon, Jane asked The Child what the word meant. He shrugged it off and set aside the twelfth sheet of the day.
+"No, I mean it!" She played. "I keep saying it to myself, and I can't figure it out. Is it a riddle?"
+The Child looked at her with a mouth full of exactly one quarter of the first sphere of ice-cream, smiled, and  nodded vigorously.
+"Well can I have a hint?" she tickled him a little.
+He shrugged again, laughing a bit.
+"Will you at least tell me how to say it?"
+He shook his head, still smiling.
+She frowned comically. "I'm going to pick up one of your papers now okay? One that you're already done with."
+He nodded, staring at the ice-cream as he portioned another spoonful.
+"WIll you tell me if I'm saying it right?" She asked, reaching over him with her hand lightly on his shoulder.
+He half-nodded, paying her little attention.
+*page_break Jane picked up the third paper from the top of his pile and settled it on the table in front of her.
+
+Tabakasratabakasratabakasratabakasratabakasratabakasratabakasratabakasra
+tabakasratabakasratabakasratabakasratabakasratabakasratabakasratabakasra
+tabakasratabakasratabakasratabakasratabakasratabakasratabakasratabakasra
+tabakasratabakasratabakasratabakasratabakasratabakasratabakasratabakasra
+tabakasratabakasratabakasratabakasratabakasratabakasratabakasratabakasra
+tabakasratabakasratabakasratabakasratabakasratabakasratabakasratabakasra
+tabakasratabakasratabakasratabakasratabakasratabakasratabakasratabakasra
+tabakasratabakasratabakasratabakasratabakasratabakasratabakasratabakasra
+tabakasratabakasratabakasratabakasratabakasratabakasratabakasratabakasra
+tabakasratabakasratabakasratabakasratabakasratabakasratabakasratabakasra
+tabakasratabakasratabakasratabakasratabakasratabakasratabakasratabakasra
+tabakasratabakasratabakasratabakasratabakasratabakasratabakasratabakasra
+tabakasratabakasratabakasratabakasratabakasratabakasratabakasratabakasra
+tabakasratabakasratabakasratabakasratabakasratabakasratabakasratabakasra
+tabakasratabakasratabakasratabakasratabakasratabakasratabakasratabakasra
+tabakasratabakasratabakasratabakasratabakasratabakasratabakasratabakasra
+tabakasratabakasratabakasratabakasratabakasratabakasratabakasratabakasra
+tabakasratabakasratabakasratabakasratabakasratabakasratabakasratabakasra
+tabakasratabakasratabakasratabakasratabakasratabakasratabakasratabakasra
+tabakasratabakasratabakasratabakasratabakasratabakasratabakasratabakasra
+
+Jane tries to pronounce the first(?) repetition:
+*input_text pronunciation
+*if(pronunciation = "tabal chashrah")
+	The Child cocks his head to one side. He stares into her eyes. He nods, then goes back to eating his ice-cream.
+	*goto play
+*else
+	The child laughs. He shakes his head and portions out another quarter of a scoop of ice-cream.
+	*goto play
+*label play
+Jane and The Child spend the rest of the night playing. He does not return to his papers.
+*page_break It all happens in a matter of seconds.
+The small hill that Jane and The Child are on shifts.
+
+Jane sees the trees cracking, hears them creaking, as the earth around the hill rises up above her and The Child. The hill yawns from concave to convex like a windbroke umbrella. Where once they were at the top, the ground below them is now wrapping up into the sky.  Jane screams and hides The Child's eyes reflexively, then closes her own. She feels nausea as the fundament rumbles underneath her. She hears the earth moaning and stretching out above her, the echo of her screams reverberating off the impossible walls. One hand supports the child, the other covers her eyes as she kneels to keep balance. The child begins wailing in her ear. It struggles inside her coat but she will not let it see this mad rending of the very ground beneath them. She shelters him and whispers "It's okay" into his ear. She presses her hands against her head and mouths an exasperated plea to the chaos to STOP. 
+
+STOp! 
+
+stoppit! 
+
+The rest of her entreaties are obfuscated by her rapidly wavering jaw and it's subsequent mucous.
+
+After the ground stops shaking, Jane holds The Child for an eternity. Eyes closed, she furrows her brow in readiness to look up, to see that this has all been a strange dream. To see that the land is sane.  She holds The Child tightly and grits her teeth. She peeks
+
+at The Child: still there.
+
+at the Snow beneath them:
+*if jane_injuries > 0
+	still bloody.
+	*goto hill
+*else
+	still there.
+	*goto hill
+
+*label hill
+at the hill:
+
+still
+
+not
+
+a
+
+hill
+
+at
+
+all.
+*finish but a sphere.

@@ -1,0 +1,16 @@
+Jane runs. Madly. Up the side of the hill. Down the sphere. She avoids the trees. The gravity shifts around her. She makes for the bottom / top. She loses her balance and grabs hold of the nearest branch. She falls sideways but she holds strong. The child is slipping out of her coat.
+*choice
+	
+	#Jane looses a hand from the branch to feebly hold The Child.
+		Holding the branch for The Child's dear life, Jane grabs the boy by the back as he begins to fall out of her coat.The center of the sphere shifts gravity towards it.JaneAndTheChild are being swept inwards.SheGrabsAFinalHoldOfTheChildAsHerOtherHandLetsLooseFromTheBranchAndtheytumbleinside.
+		*finish andoutagain
+	#Jane prepares for impact with the ground(?) by circling herself around The Child.
+		Jane disengages her hands and wraps herself around the boy. She prepares for a stiff impact, but is surprised to find that it is merely inches away from where she held on. A dull thud as she and The Child softly land on the perfect snow,
+		*finish their imprint not unlike a Star falling to earth.
+	*if(jane_injuries > 0)
+		#Jane watches the blood falling from her side swirl into the center of the sphere. Jane see's same blood take on queer shapes in it's vitreous conglomeration: triangle, square, pentagram. Then it disappears. If she lets go, she knows she and The Child will see the same End. She wraps her knees around Him and holds on for dear life.
+			But the tree buckles. Jane grasps along the side of the upsidedown(?) tree and carries herself and The Child up towards the trunk. She grabs the roots and wraps herself and The Child around the base of the tree. And stares into her eyelids, her legs wrapped
+
+			around The Child
+
+			*finish like the claws of some starved beast.

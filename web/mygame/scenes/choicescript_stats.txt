@@ -1,0 +1,5 @@
+*stat_chart
+	opposed_pair jane_bravery_vs_caution
+		Bravery
+		Caution
+
