@@ -15,17 +15,17 @@ She is running with the bleeding child in her arms, his blood pooling in her lef
 		*set mother_haunted + 10
 		This is not the first time the Mother has been absent when her presence was required. At these times Jane was forced to take care of the Baby, and she falls easily into the role.
 
-		"Pressure" she muses through gritted teeth. "Keep pressure on the wound". Is that not what the Mother would say?
+		"Pressure" she whispers through gritted teeth. "Keep pressure on the wound". Is that not what the Mother would say?
 
 		*fake_choice
 			#Jane leaves the child on the table and goes into the hallway to find the first aid kit.
-				The first aid kit is buried beneath shoes and old coats. She rips these away and carries the kit back to the child and dresses the wound with a clean cotton pad. She then uses an ace bandage to tie off the child's leg above the knee.
-			#Not wishing to let the child out of her sight, Jane quickly rips her cotton shirt at the hem, leaving it useless. 
-				She dresses the wound as best she can and takes amother strip to bind the child above the knee.
-		
-		Where the fuck is the Mother? She panics. She swaddles the child but it will not be consoled. Shrieks continually pierce the otherwise dead silence, pausing only as the child inhales another quick burst of air to continue the biologically perfected klaxons. Two cries, breath, one long cry, breath, two cries. A pattern emerges.
+				The first aid kit is buried beneath shoes and old coats. She rips these away and carries the kit back to the child, then dresses the wound with a clean cotton pad. She uses an ace bandage to tie off the child's leg above the knee.
+			#Not wishing to let the child out of her sight, Jane quickly rips her cotton shirt at the hem, leaving it useless.
+				She dresses the wound as best she can and takes another strip to bind the child above the knee.
 
-		Suddenly, the Mother is seen descending the staircase. She looks as if she had just been woken from a nap, her hair unruly and her makeup faded. Upon seeing her daughter tending to her bleeding son, her her mind snaps to attention and she runs down the staircase. She inspects the wound wordlessly and descends upon the open first-aid kit. After creating a pile of her materials, she rips the bandaging from the child and cleanses the wound with a few deft strokes from an alcohol pad. After grumbling over the child's leg for a moment, she chooses a pause in it's wailing to tell Jane to start the car. Jane is informed that they must go to the clinic, the child has lost too much blood.
+		Where the fuck is the Mother? She panics. She swaddles the child but it will not be consoled. Shrieks continually pierce the otherwise dead silence, pausing only when the child inhales a quick burst of air. Two cries, breath, one long cry, breath, two cries. A pattern emerges.
+
+		Suddenly, the Mother is seen descending the staircase. She looks as if she had just been woken from a nap, her hair unruly and her makeup smudged. Upon seeing her daughter tending to her bleeding son, her mind snaps to attention and she runs down the staircase. She inspects the wound wordlessly and descends upon the open first-aid kit. After creating a pile of her materials, she rips the bandaging from the child and cleanses the wound with a few deft strokes of an alcohol pad. After grumbling over the child's leg for a moment, she chooses a pause in his wailing to tell Jane to start the car. Jane is informed that they must go to the clinic, the child has lost too much blood.
 
 		*label car
 
@@ -33,7 +33,7 @@ She is running with the bleeding child in her arms, his blood pooling in her lef
 
 		"Jane honey" she murmurs, her voice weak, "I need you to go and try to find the missing flesh if you can. Take some gloves and a cup of ice. I am going to get him ready for the car seat."
 
-		Jane knows that the Mother is most likely right about finding the tissue. The bite, or whatever it was, has removed a large chunk from the child's leg, leaving no flap. An avulsion, she thinks. Is that not what The Mother would call it? 
+		Jane knows that the Mother is most likely right about finding the tissue. The bite, or whatever it was, has removed a large chunk from the child's leg, leaving no flap. An avulsion, she thinks. Is that not what The Mother would call it?
 
 		*choice
 			#Jane cautiously walks out to the area that the child was playing in, scanning the surroundings for signs of movement.
@@ -46,7 +46,7 @@ She is running with the bleeding child in her arms, his blood pooling in her lef
 				Jane runs towards the small pillowy field between the copse of trees to the south of the house. It is darker now as the light fades below the horizon, but she can still see well enough to spot any bright red pocks among the dull brown of the frozen earth.
 
 				*label chunk
-				Try as she might, Jane is unable to find the torn flesh. She looks for a spatter of blood to position herself in the glade, but there is none to be found. Even where the child sat when he was attacked, there is nothing but earth and the little pile of twigs and leaves he was guarding from the wind. She loses herself in the hunt for a few moments, then seeing The Mother standing by the car out at the front of the house, Jane shrugs grotesquely at her as she runs back up to the driveway. Jane enters the car as the Mother is beginning to pull out of the driveway. The Mother tosses Jane her sweater from the day before. 
+				Try as she might, Jane is unable to find the torn flesh. She looks for a spatter of blood to position herself in the glade, but there is none to be found. Even where the child sat when he was attacked, there is nothing but earth and the little pile of twigs and leaves he was guarding from the wind. She loses herself in the hunt for a few moments, then seeing The Mother standing by the car out at the front of the house, Jane shrugs grotesquely at her as she runs back up to the driveway. Jane enters the car as the Mother is beginning to pull out of the driveway. The Mother tosses Jane her sweater from the day before.
 
 		The Mother shifts the economy car into third and blazes down the wormy mountainside road. Jane holds onto the handle above her head with white knuckles; she' hasn’t been comfortable in cars since the accident. It is 4pm; the sunlight dwindles in the crisp mountain air. The smell of loamy earth and decaying leaves enters the car through the open windows. At this speed, the car will reach the bottom of the mountain in ten minutes.
 
@@ -81,11 +81,11 @@ She is running with the bleeding child in her arms, his blood pooling in her lef
 
 				"We are giving him the best care we can."
 				*goto sheriff
-				
-			#The Mother and the daughter continued the lonely drive to the hospital. The child is rushed in to triage and deemed injured enough to be given immediate care, skipping the line in front of an old man lying on a bench shivering with his eyes rolled back. 
+
+			#The Mother and the daughter continued the lonely drive to the hospital. The child is rushed in to triage and deemed injured enough to be given immediate care, skipping the line in front of an old man lying on a bench shivering with his eyes rolled back.
 
 				*label sheriff
-				
+
 				After a few interminable hours at the clinic, the family is deemed ready to leave. A portly man in an ill-fitting police uniform enters the clinic, speaks for a moment with the intake nurse, and addresses the family. He is the sheriff and he is offering them a ride home. Given their current state, the Mother accepts.
 
 				*if crash

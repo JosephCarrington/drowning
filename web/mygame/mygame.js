@@ -22,9 +22,9 @@
 
 
 nav = new SceneNavigator([
-	'startup',
-	'night_1',
-	'dream_1',
+	// 'startup',
+	// 'night_1',
+	// 'dream_1',
 	'trees',
 	'cries',
 	'stretching',

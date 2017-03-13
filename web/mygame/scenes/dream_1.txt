@@ -1,18 +1,18 @@
 *if jane_sleeps_with_child
 	*if crash
-		Jane is behind the wheel of an immensely complex vehicle. Tens of shifters, with smaller shifters attached to each, are surrounded by knobs and buttons with signs she an't begin to understand. She knows the vehicle is moving, but strains to see out the windshield. She tries to break and finds her feet do not work. She climbs the steering wheel and sees that she is careening down an old snowy road down a mountain. No, she is speeding down her mountain road. The vehicle slides over and the child holds onto the window, trying not to be flung out. Her calls her name, no, not Jane, a different name. An older name:
+		Jane is behind the wheel of an immensely complex vehicle. Tens of shifters, with smaller shifters attached to each, are surrounded by knobs and buttons with signs she can’t begin to understand. She knows the vehicle is moving, but strains to see out the windshield. She tries to brake and finds her feet do not work. She climbs the steering wheel and sees that she is careening down an old snowy road deep in the mountains. No, she is speeding down her mountain road. The vehicle slides over and The Child holds onto the window, trying not to be flung out. Her calls her name, no, not Jane, a different name. An older name:
 
 		*input_text true_name
 
-		Jane tries to reach the child but he is always just out of reach. She grits her teeth but the closer to him she gets the less strength her muscles give her. After tense minutes of this, the vehicle crashes and the child is thrown into the woods. She hears the child crying but can not get out of the vehicle. Finally she scales the dashboard and punches the window out. She runs off into the woods toward the crying trailing blood behind her from a large wound in her stomach.
+		Jane tries to grab the child but he is always just out of reach. She grits her teeth and strains, but the closer to him she gets the less strength her muscles give her. Suddenly the vehicle crashes into a tree, a branch puncturing the windshield with a roar and nearly driving through her skull, while the force of the crash throws The Child through the open window into the woods. She hears the child crying but can not get out of the vehicle. Finally she wrenches the branch free from the headrest to her right and ducks under it and out of the vehicle. She runs off into the woods toward the crying, trailing blood behind her from a large wound in her stomach.
 
-		"${true_name}..." the boy whimpers. His voice failing. She is frenzied. She crashes through trees and thickets and brush and briar and babbling brook, each new object taking some small peice of her. Smaller wounds begin opening up all over her body before her eyes. She runs through the woods and the branches of the trees cut her apart like an old strawberry through an egg slicer. She screams but no sound comes out of her serrated throat.
+		"${true_name}..." the boy whimpers. His voice failing. She is frenzied. She crashes through trees and thickets and brush and briar and babbling brook, each new object taking some small piece of her. Smaller wounds begin opening up all over her body before her eyes. She runs through the woods and the branches of the trees cut her apart like a strawberry through an egg slicer. She screams but no sound comes out of her hoarse and wheezing throat.
 
-		*finish Jane wakes in the child's bed, sweating. The child is no longer in the bed. Jane stumbles out,  calling for The Mother.
+		*finish Jane wakes in The Child's bed, sweating. The Child is no longer in the bed. Jane stumbles out,  calling for The Mother.
 		
 
 	*else
-		Jane and the child are lying together on a bed near the huge windshield in the old trailer the Family used to live in when Christian was still alive.  Jane holds the child's hands up and points it's fingers to stars, naming them each. "And what is that star's name?" The child responds without moving it's lips, but simply looks into her eyes with an infantile smile and communicates the words to her. "Eris". "Kirial". Jane points the child's finger to the North Star. "What is that star's name?" she laughs. The child looks at her gravely and tells her:
+		Jane and the child are lying together on a bed near the huge windshield in the old trailer the Family used to live in when Christian was still alive.  Jane holds the child's hands up and points it's fingers to stars, naming them each. "And what is that star's name?" The child responds without moving it's lips, but simply looks into her eyes with an infantile smile and communicates the words to her. "Eris". "Kirial". Jane points The Child's finger to the North Star. "What is that star's name?" she laughs. The Child looks at her gravely and tells her:
 
 		*input_text true_name
 		
@@ -20,10 +20,10 @@
 		*finish
 
 *else
-	It is holding her arms behind her back. She sweats and gasps into the bare mattress, her pillow covering her head. She strains to look back but can not move her neck far enough. Her shirt is ripped off, it's neck choking her for a moment. Her training bra similarly removed, she feels hot, animal breath on her shivering back. Small drops of fluid warm spatter her shoulders. Blood, she sees, is sliding down her arms towards her face, pooling under her chin and flecking off her lower lip. She tries to make a sound but her mouth will not speak. It spreads her legs at the knees. Her toes dig into the mattress.
+	It is holding her arms behind her back. She sweats and gasps into the bare mattress, her pillow covering her head. She strains to look back but can not twist her neck far enough. Her shirt is ripped off, it's neck choking her for a moment. She feels hot, animal breath on her shivering back. Small drops of warm, viscous fluid spatter her shoulders. Blood, she sees, is sliding down her arms towards her face, pooling under her chin and dripping off her lower lip. She tries to make a sound but her mouth will not speak. It spreads her legs at the knees. Her toes dig into the mattress.
 
-	It finishes and brands her true name into her arm:
+	It finishes and brands her true name into her shoulders:
 	*input_text true_name
 	that it might call her again, and call her it's own.
 
-	*finish Jane wakes in the child's bed, sweating. The child is no longer in the bed. Jane stumbles out, breathlessly calling for The Mother.
+	*finish Jane wakes on the floor in The Child's bedroom, sweating. The Child is no longer in it’s bed. Jane stumbles out, breathlessly calling for The Mother.
